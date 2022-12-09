@@ -18,7 +18,7 @@ body {
 .header h1 {
     display: inline-block;
     font-size: 48px;
-    `1' ~
+   
 }
 
 .header h1 .seo {
@@ -33,14 +33,18 @@ body {
     font-size: 20px;
 }
 
-.header  nav ul {
+.header nav ul {
     list-style-type: none;
 }
-
-.header nav ul li {
+.list-item{
     display: inline-block;
     margin-left: 25px;
 }
+
+/* .header nav ul li {
+    display: inline-block;
+    margin-left: 25px;
+} */
 
 a {
     color: #ffffff;
