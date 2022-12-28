@@ -10,7 +10,7 @@ The code have been refactored and the fallowing list shows everything that have 
 * The tittle have been changed with an appropriate name of the page. 
 * The list items have been added classes in order to have more appropriate css selector names.
 * The navigation of the page have been replaced with semantic tag `nav`.
-* Half of the css code have been refactored.All redundant code have been commented out. Also the old classes have not been deleted for debugging purpose.  
+* Half of the css code have been refactored.All redundant code have been commented out.  The old classes have not been deleted from html for debugging purpose.  
  ### Website Preview 
  ![01-html-css-git-](https://user-images.githubusercontent.com/25286630/209859982-3d461c06-e26e-41a2-97a2-b0c58f483454.png)
 ### Links 
